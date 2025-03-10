@@ -16,6 +16,7 @@ public class HaiiNaii {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello Guys");
+        System.out.println("apa kabar?");
     }
     
 }
